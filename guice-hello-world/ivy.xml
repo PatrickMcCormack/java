@@ -1,0 +1,7 @@
+<ivy-module version="2.0">
+    <info organisation="com.patrickm" module="guice-hello-world"/>
+    <dependencies>
+		<dependency org="com.google.inject" name="guice" rev="3.0"/>
+    </dependencies>
+</ivy-module>
+
